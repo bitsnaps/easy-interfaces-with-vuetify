@@ -41,8 +41,6 @@
 </template>
 
 <script setup>
-import { ref } from 'vue';
-
 const articles = ref([])
 const totalNumberOfArticles = ref(0)
 const nextPage = ref(1)

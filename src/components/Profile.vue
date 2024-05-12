@@ -72,7 +72,6 @@
 </template>
 
 <script setup>
-import { ref } from 'vue';
 import Tweet from './Tweet.vue';
 import Replies from './Replies.vue';
 import Highlights from './Highlights.vue';
